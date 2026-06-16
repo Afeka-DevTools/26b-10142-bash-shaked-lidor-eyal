@@ -1,2 +1,31 @@
-# 26b-10142-bash-shaked-lidor-eyal
-26b-10142-bash-shaked-lidor-eyal created by GitHub Classroom
+# DevTools - Homework 1: Bash Scripting & Git
+
+## חברי הצוות
+* **לידור** (Lidor)
+* **[שם השותף/ה]** ([Partner Name])
+
+## סקריפטים נבחרים
+
+### הסקריפטים של לידור:
+1. **שליפת מזג האוויר המעודכן לעיר מסוימת** (`weather.sh`)
+2. **ספירת שורות, מילים, ותווים בכל קובץ בתיקיה** (`count_files_stats.sh`)
+3. **יצירת סיסמה רנדומלית בעלת 10 תווים** (`generate_password.sh`)
+4. **בדיקת חיבוריות לרשת האינטרנט והדפסת log** (`check_internet.sh`)
+5. **הצגת זמן פעילות המערכת** (`uptime_info.sh`)
+
+### הסקריפטים של [שם השותף/ה]:
+1. **גיבוי תכולה של תיקיה לקובץ tar.gz** (`backup.sh`)
+2. **מחיקת קבצים הישנים יותר מ-X ימים** (`delete_old_files.sh`)
+3. **טיימר ספירה לאחור** (`countdown_timer.sh`)
+4. **הריגת כל התהליכים לפי שם** (`kill_process.sh`)
+5. **מיון שורות בקובץ לפי סדר אלפביתי** (`sort_lines.sh`)
+
+---
+
+## הוראות הרצה למשתמש
+
+### 1. שכפול הפרויקט (Clone)
+כדי להוריד את הפרויקט לסביבת העבודה המקומית, הריצו את הפקודה הבאה בטרמינל:
+```bash
+git clone [Your_Repository_Address]
+cd [Your_Repository_Name]
