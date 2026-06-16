@@ -34,5 +34,6 @@
 ### 1. שכפול הפרויקט (Clone)
 כדי להוריד את הפרויקט לסביבת העבודה המקומית, הריצו את הפקודה הבאה בטרמינל:
 ```bash
-git clone [Your_Repository_Address]
 cd [Your_Repository_Name]
+git clone [Your_Repository_Address]
+
