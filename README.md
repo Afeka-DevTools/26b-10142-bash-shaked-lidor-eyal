@@ -2,9 +2,8 @@
 
 This project was completed and submitted as part of the **Development Tools (DevTools)** course, Semester B 2026 at Afeka - Academic College of Engineering, Tel Aviv.
 
-* **Course Instructors:** Mr. Tom Cohen, Mr. Lidor Rotberg.
+* **Course Instructor:** Mr. Tom Cohen.
 * **Assignment Guidelines:** [2026B.devtools.HW1_BashScripting.pdf](file:///C:/Users/lidor/Documents/26b-10142-bash-shaked-lidor-eyal/2026B.devtools.HW1_BashScripting.pdf)
-* **Submission Deadline:** 04/07/2026, 23:59.
 
 ## Team Members
 * **Lidor Even**
