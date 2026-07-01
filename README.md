@@ -47,21 +47,21 @@ This project was completed and submitted as part of the **Development Tools (Dev
    - **Execution:** `bash scripts/txt_counter.sh <directory_path>`
 
 ### Eyal's Scripts:
-1. **Website Accessibility Check** ([check_website_access.sh.txt](file:///C:/Users/lidor/Documents/26b-10142-bash-shaked-lidor-eyal/scripts/check_website_access.sh.txt))
+1. **Website Accessibility Check** ([check_website_access.sh.txt](file:///C:/Users/lidor/Documents/26b-10142-bash-shaked-lidor-eyal/scripts/check_website_access.sh))
    - **Description:** Reads a text file containing website URLs (one per line) and checks their accessibility using `curl`.
-   - **Execution:** `bash scripts/check_website_access.sh.txt [file]`
-2. **Clean Project Temporary Files** ([clean_temp_files.sh.txt](file:///C:/Users/lidor/Documents/26b-10142-bash-shaked-lidor-eyal/scripts/clean_temp_files.sh.txt))
+   - **Execution:** `bash scripts/check_website_access.sh [file]`
+2. **Clean Project Temporary Files** ([clean_temp_files.sh.txt](file:///C:/Users/lidor/Documents/26b-10142-bash-shaked-lidor-eyal/scripts/clean_temp_files.sh))
    - **Description:** Cleans common temporary and build files/folders (such as `.class`, `.pyc`, `.tmp`, `.log`, `node_modules`, `__pycache__`) from a project directory.
-   - **Execution:** `bash scripts/clean_temp_files.sh.txt [project_directory]`
-3. **Current User Information** ([current_user_info.sh.txt](file:///C:/Users/lidor/Documents/26b-10142-bash-shaked-lidor-eyal/scripts/current_user_info.sh.txt))
+   - **Execution:** `bash scripts/clean_temp_files.sh [project_directory]`
+3. **Current User Information** ([current_user_info.sh.txt](file:///C:/Users/lidor/Documents/26b-10142-bash-shaked-lidor-eyal/scripts/current_user_info.sh))
    - **Description:** Displays information about the currently logged-in user, including username, home directory, groups, and configured shell.
-   - **Execution:** `bash scripts/current_user_info.sh.txt`
-4. **On-Screen Reminder** ([screen_reminder.sh.txt](file:///C:/Users/lidor/Documents/26b-10142-bash-shaked-lidor-eyal/scripts/screen_reminder.sh.txt))
+   - **Execution:** `bash scripts/current_user_info.sh`
+4. **On-Screen Reminder** ([screen_reminder.sh.txt](file:///C:/Users/lidor/Documents/26b-10142-bash-shaked-lidor-eyal/scripts/screen_reminder.sh))
    - **Description:** Schedules an on-screen text reminder to pop up after a specified delay in minutes.
-   - **Execution:** `bash scripts/screen_reminder.sh.txt [minutes] [message]`
-5. **Word Frequency Count** ([word_frequency_count.sh.txt](file:///C:/Users/lidor/Documents/26b-10142-bash-shaked-lidor-eyal/scripts/word_frequency_count.sh.txt))
+   - **Execution:** `bash scripts/screen_reminder.sh [minutes] [message]`
+5. **Word Frequency Count** ([word_frequency_count.sh.txt](file:///C:/Users/lidor/Documents/26b-10142-bash-shaked-lidor-eyal/scripts/word_frequency_count.sh))
    - **Description:** Analyzes a text file and prints a sorted list of word frequencies in descending order.
-   - **Execution:** `bash scripts/word_frequency_count.sh.txt [file]`
+   - **Execution:** `bash scripts/word_frequency_count.sh [file]`
 
 ---
 
